@@ -5,6 +5,7 @@
     --vivid-pink: oklch(69.02% 0.277 332.77);
     --hot-red: oklch(61.42% 0.238 15.34);
     --orange-red: oklch(63.32% 0.24 31.68);
+    --orcid-brand-primary-darkest: oklch(64.48% 0.67 119.58);
 
     --gray-900: oklch(19.37% 0.006 300.98);
     --gray-700: oklch(36.98% 0.014 302.71);
@@ -32,7 +33,7 @@
 
 h1 {
     font-size: 3.125rem;
-    color: var(--electric-violet);
+    color: var(--orcid-brand-primary-darkest);
     font-weight: 500;
     line-height: 100%;
     letter-spacing: -0.125rem;
